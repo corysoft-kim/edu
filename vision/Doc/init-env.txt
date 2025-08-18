@@ -1,0 +1,5 @@
+- 초기 환경 원복
+- 터미널 관리자 권한 시행
+conda env update -f environment_env_aias_test.yml --prune 
+
+
