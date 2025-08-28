@@ -1,0 +1,4 @@
+File rag/2일차/실습 자료/CRAG dataset/crag_task_1_dev_v4_release.jsonl.bz2 is 705.13 MB; this exceeds GitHub's file size limit of 100.00 MB
+
+need to download
+https://drive.google.com/drive/folders/11U4K6EXDvAytR6QNGXM6Lb5Yl8JCg92Y
